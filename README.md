@@ -44,6 +44,7 @@ It’s a simple yet effective setup for understanding remote connections and log
 ### **Step 5: Access the Log Directory**
 
 * Once connected, navigate to the log directory by running:
+<img width="772" height="499" alt="Screenshot 2025-10-19 174230" src="https://github.com/user-attachments/assets/d4c54512-6df1-4a30-9a3b-95396c75a58d" />
 
   ```
   cd /var/log
